@@ -1,0 +1,9 @@
+= pub_sub
+
+Minimal client lib for RabbitMQ publisher/subscriber.
+
+== Copyright
+
+Copyright (c) 2012 Simon Horne. See LICENSE.txt for
+further details.
+
